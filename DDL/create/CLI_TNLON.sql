@@ -4,10 +4,6 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
-
-DROP TABLE IF EXISTS "CLI_TNLON" CASCADE
-;
 
 /* Create Tables */
 

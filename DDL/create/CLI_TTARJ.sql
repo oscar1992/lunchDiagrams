@@ -4,10 +4,6 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
-
-DROP TABLE IF EXISTS "CLI_TTARJ" CASCADE
-;
 
 /* Create Tables */
 

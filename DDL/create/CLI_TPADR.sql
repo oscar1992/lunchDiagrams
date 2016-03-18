@@ -4,10 +4,7 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
 
-DROP TABLE IF EXISTS "CLI_TPADR" CASCADE
-;
 
 /* Create Tables */
 

@@ -4,10 +4,8 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
 
-DROP TABLE IF EXISTS "CLI_TFAVO" CASCADE
-;
+
 
 /* Create Tables */
 

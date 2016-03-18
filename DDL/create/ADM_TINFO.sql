@@ -4,10 +4,7 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
 
-DROP TABLE IF EXISTS "ADM_TINFO" CASCADE
-;
 
 /* Create Tables */
 

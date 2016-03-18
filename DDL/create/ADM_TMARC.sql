@@ -4,10 +4,6 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
-
-DROP TABLE IF EXISTS "ADM_TMARC" CASCADE
-;
 
 /* Create Tables */
 

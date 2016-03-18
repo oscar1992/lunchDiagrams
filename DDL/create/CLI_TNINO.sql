@@ -4,10 +4,7 @@
 /*  DBMS       : PostgreSQL 						*/
 /* ---------------------------------------------------- */
 
-/* Drop Tables */
 
-DROP TABLE IF EXISTS "CLI_TNINO" CASCADE
-;
 
 /* Create Tables */
 
