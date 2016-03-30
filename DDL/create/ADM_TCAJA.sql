@@ -7,11 +7,11 @@
 
 /* Create Tables */
 
-CREATE TABLE "ADM_TCAJA"
+CREATE TABLE ADM_TCAJA
 (
-	"CAJA_CAJA" integer NOT NULL,
-	"CAJA_NOMB" varchar(50)	 NULL,
-	"CAJA_COLO" varchar(50)	 NULL
+	CAJA_CAJA integer NOT NULL,
+	CAJA_NOMB varchar(50)	 NULL,
+	CAJA_COLO varchar(50)	 NULL
 )
 ;
 

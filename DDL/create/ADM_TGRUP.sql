@@ -8,10 +8,10 @@
 
 /* Create Tables */
 
-CREATE TABLE "ADM_TGRUP"
+CREATE TABLE ADM_TGRUP
 (
-	"GRUP_GRUP" integer NOT NULL,
-	"GRUP_RANG" varchar(50)	 NULL
+	GRUP_GRUP integer NOT NULL,
+	GRUP_RANG varchar(50)	 NULL
 )
 ;
 

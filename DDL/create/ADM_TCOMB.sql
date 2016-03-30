@@ -8,12 +8,12 @@
 
 /* Create Tables */
 
-CREATE TABLE "ADM_TCOMB"
+CREATE TABLE ADM_TCOMB
 (
-	"COMB_COMB" integer NOT NULL,
-	"COMB_NOMB" varchar(50)	 NULL,
-	"COMB_ORDE" integer NULL,
-	"COMB_CAJA" integer NULL
+	COMB_COMB integer NOT NULL,
+	COMB_NOMB varchar(50)	 NULL,
+	COMB_ORDE integer NULL,
+	COMB_CAJA integer NULL
 )
 ;
 

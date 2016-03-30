@@ -8,16 +8,16 @@
 
 /* Create Tables */
 
-CREATE TABLE "CLI_TPADR"
+CREATE TABLE CLI_TPADR
 (
-	"PADR_PADR" integer NOT NULL,
-	"PADR_NOMB" varchar(100)	 NULL,
-	"PADR_TELE" varchar(50)	 NULL,
-	"PADR_DIRE" varchar(100)	 NULL,
-	"PADR_EMAI" varchar(100)	 NULL,
-	"PADR_CONT" varchar(50)	 NULL,
-	"PADR_PRIM" boolean NULL,
-	"PADR_NCON" varchar(10)	 NULL
+	PADR_PADR integer NOT NULL,
+	PADR_NOMB varchar(100)	 NULL,
+	PADR_TELE varchar(50)	 NULL,
+	PADR_DIRE varchar(100)	 NULL,
+	PADR_EMAI varchar(100)	 NULL,
+	PADR_CONT varchar(50)	 NULL,
+	PADR_PRIM boolean NULL,
+	PADR_NCON varchar(10)	 NULL
 )
 ;
 

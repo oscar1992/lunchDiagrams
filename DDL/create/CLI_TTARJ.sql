@@ -7,12 +7,12 @@
 
 /* Create Tables */
 
-CREATE TABLE "CLI_TTARJ"
+CREATE TABLE CLI_TTARJ
 (
-	"TARJ_TARJ" integer NOT NULL,
-	"TARJ_NOMB" varchar(50)	 NULL,
-	"TARJ_NUME" varchar(50)	 NULL,
-	"TARJ_PADR" integer NULL
+	TARJ_TARJ integer NOT NULL,
+	TARJ_NOMB varchar(50)	 NULL,
+	TARJ_NUME varchar(50)	 NULL,
+	TARJ_PADR integer NULL
 )
 ;
 

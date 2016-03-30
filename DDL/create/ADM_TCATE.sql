@@ -7,10 +7,10 @@
 
 /* Create Tables */
 
-CREATE TABLE "ADM_TCATE"
+CREATE TABLE ADM_TCATE
 (
-	"CATE_CATE" integer NOT NULL,
-	"CATE_NOMB" varchar(100)	 NULL
+	CATE_CATE integer NOT NULL,
+	CATE_NOMB varchar(100)	 NULL
 )
 ;
 

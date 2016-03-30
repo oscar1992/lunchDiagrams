@@ -7,10 +7,10 @@
 
 /* Create Tables */
 
-CREATE TABLE "ADM_TMARC"
+CREATE TABLE ADM_TMARC
 (
-	"MARC_MARC" integer NOT NULL,
-	"MARC_NOMB" varchar(100)	 NULL
+	MARC_MARC integer NOT NULL,
+	MARC_NOMB varchar(100)	 NULL
 )
 ;
 

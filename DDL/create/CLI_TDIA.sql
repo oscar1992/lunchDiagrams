@@ -8,12 +8,12 @@
 
 /* Create Tables */
 
-CREATE TABLE "CLI_TDIA"
+CREATE TABLE CLI_TDIA
 (
-	"DIA_DIA" integer NOT NULL,
-	"DIA_FECH" date NULL,
-	"DIA_LIST" integer NULL,
-	"DIA_NINO" integer NULL
+	DIA_DIA integer NOT NULL,
+	DIA_FECH date NULL,
+	DIA_LIST integer NULL,
+	DIA_NINO integer NULL
 )
 ;
 
